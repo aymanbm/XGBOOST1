@@ -47,7 +47,7 @@ XGBoost was used due to its high performance with tabular data and ability to ha
 The model was optimized using Random Search to find the best hyperparameters, improving the model’s accuracy and robustness.
 
 2. Support Vector Machine (SVM)
-SVM with an RBF kernel was applied to separate the data points in higher-dimensional space.
+SVM with an linear kernel was applied to separate the data points in higher-dimensional space.
 
 Hyperparameters such as the C parameter and gamma were fine-tuned to improve performance.
 
