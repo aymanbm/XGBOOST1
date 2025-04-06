@@ -73,7 +73,7 @@ Precision
 
 MSE
 
-Results and Discussion
+## Results and Discussion
 XGBoost showed strong performance, handling non-linear relationships well and providing feature importance insights.
 
 SVM was effective at distinguishing between classes, especially when the data was properly scaled, but was slower for larger datasets.
